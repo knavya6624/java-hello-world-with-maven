@@ -7,7 +7,8 @@
     <packaging>jar</packaging>
     <version>0.2.0</version>
 
-    <!-- tag::joda[] This file is updated for Web hook-->
+    <!-- tag::joda[] This file is updated for Web hook this is updated today
+    -->
      <properties>
            <java.version>1.8</java.version>
            <maven.compiler.source>1.8</maven.compiler.source>
