@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
     <version>0.2.0</version>
 
-    <!-- tag::joda[] This file is updated for Web hook this is updated today for test
+    <!-- tag::joda[] This file is again updated for webhook.
     -->
      <properties>
            <java.version>1.8</java.version>
