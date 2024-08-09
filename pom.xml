@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
     <version>0.2.0</version>
 
-    <!-- tag::joda[] This is External exam for webhook.
+    <!-- tag::joda[] This is External exam for WEBHOOK.
     -->
      <properties>
            <java.version>1.8</java.version>
